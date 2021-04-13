@@ -1,0 +1,29 @@
+/* START BTN */
+.btn {
+    /* Reset settings*/
+    padding: 0;
+    border: none;
+    font: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.btn {
+   display: inline-block;
+   text-align: center;
+   text-decoration: none;
+   margin: 2px 0;
+   border: solid 1px black;
+   border-radius: 4px;
+   padding: 0.5em 1em;
+}
+/* END BTN */
+
+
+/* START INPUT */
+input {
+    display: block;
+    padding: 0px 3px;
+    margin: 2px 0;
+}
+/* END INPUT */
